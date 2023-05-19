@@ -1,0 +1,29 @@
+body{
+    background-image: url("./images/Illustrations/Bathome1.png");
+    background-color: black;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+p{
+    color: white;
+}
+h1{
+color: antiquewhite;
+float: right; 
+}
+h2{
+    color: antiquewhite;
+}
+h3{
+    color: antiquewhite;
+}
+span{
+    color: antiquewhite;
+    contain: content;
+}
+div{
+    background-color: rgb(72, 83, 83);
+}
+ul{
+counter-reset: initial ;
+}
